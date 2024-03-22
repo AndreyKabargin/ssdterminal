@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSD</string>
+    <string name="takeFoto">Сделать фото</string>
+    <string name="saveFoto">Сохранить фото</string>
+    <string name="deleteFoto">Удалить фото</string>
+    <string name="textHelper">Отсканируйте QR-код рабочего центра</string>
+</resources>
